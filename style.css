@@ -2106,3 +2106,11 @@ footer > p {
 .nav-links a.active::after {
     width: 100%;
 }
+
+.footer-logo span {
+    color: #2457ff;
+    font-size: inherit;
+    display: inline;
+    width: auto;
+    overflow: visible;
+}
